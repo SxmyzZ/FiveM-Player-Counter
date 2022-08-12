@@ -3,7 +3,7 @@
   "productName": "Discord Bot",
   "version": "0.1.0",
   "description": "Discord Bot",
-  "main": "index.js",
+  "main": "secondlife.js",
   "author": {
     "name": "íʍƊɑѵƊɑѵ#9351"
   },
