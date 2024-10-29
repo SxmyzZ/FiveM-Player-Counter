@@ -7,9 +7,9 @@ const client = new Discord.Client();
 const fivereborn = require('fivereborn-query');
 let configs = {
     "activityType": "WATCHING",
-    "token": "MTAwNzY2MzI3NDY4ODUyMDIxMg.GFfapP.sxGoagc0xZzkcXvfMZ_vIRVeWM_PUIk1P72d4A",
+    "token": "bot token",
     "serverInfo": [
-        "extreme-02.litecloud.fr",
+        "ip serveur",
         30198
     ]
 }
