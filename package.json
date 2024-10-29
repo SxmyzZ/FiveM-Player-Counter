@@ -3,9 +3,9 @@
   "productName": "Discord Bot",
   "version": "0.1.0",
   "description": "Discord Bot",
-  "main": "secondlife.js",
+  "main": "base.js",
   "author": {
-    "name": "íʍƊɑѵƊɑѵ#9351"
+    "name": "AkussZZ"
   },
   "scripts": {
     "start": "node index"
